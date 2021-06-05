@@ -1,0 +1,39 @@
+PWA Permissions
+
+No signup - all local storage
+
+Main menu
+    List of current habits
+
+Design a new habit
+    Triggers
+        time - recurring reminder
+        accelerometer - are driving? Are walking? Are still?
+        events - unsure, maybe system events in which case upon receiving a text, etc
+        ambient light - unsure
+        geolocation - arriving home, leaving home, or work etc
+            set a new location
+            arriving
+            departing
+            present for X time
+        gyroscope - unsure
+    Actions
+        push
+        notifications
+
+'accelerometer', 
+'accessibility-events', 
+'ambient-light-sensor', 
+'background-sync', 
+'camera'​, 
+'clipboard-read', 
+'clipboard-write', 
+'geolocation', 
+'gyroscope', 
+'magnetometer', 
+'microphone', 
+'midi',     
+'notifications', 
+'payment-handler', 
+'persistent-storage'
+'push'
